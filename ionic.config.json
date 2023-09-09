@@ -1,0 +1,7 @@
+{
+  "name": "ProjectNewTeLlevaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
